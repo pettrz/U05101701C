@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://locksmith-bushes-55518.netlify.com/"
 languageCode = "en-us"
 title = "Min hugo sida"
 theme = "ananke"

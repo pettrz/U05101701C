@@ -2,3 +2,12 @@ baseURL = "https://locksmith-bushes-55518.netlify.com/"
 languageCode = "en-us"
 title = "Min hugo sida"
 theme = "ananke"
+
+MetaDataFormat = "yaml"
+Paginate = 3
+SectionPagesMenu = "main"
+
+
+[params]
+
+twitter=""

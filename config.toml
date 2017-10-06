@@ -7,7 +7,5 @@ MetaDataFormat = "yaml"
 Paginate = 3
 SectionPagesMenu = "main"
 
-
 [params]
-
-twitter=""
+twitter="https://twitter.com/t4ostra"
